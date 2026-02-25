@@ -25,7 +25,7 @@ CSV Upload → EDA & Visualization → Data Cleaning
 
 | Feature | Detail |
 |---|---|
-| **Dataset** | CICDDoS2019 (`cicddos2019.csv`) |
+| **Dataset** | CICDDoS2019, AdDDoSDN |
 | **Embedding Model** | `Thi-Thu-Huong/DDoSBert` (HuggingFace) |
 | **Fusion** | Attention-weighted concatenation |
 | **Classifier** | Logistic Regression (balanced) |
