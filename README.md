@@ -1,4 +1,4 @@
-# EDAD-Hybrid DDoS Detection
+# Hybrid DDoS Detection
 
 **Embedding-Driven Attention-based Detection** — A hybrid framework fusing **DDoSBert** semantic embeddings with traditional tabular features for lightweight DDoS attack classification
 
